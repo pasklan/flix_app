@@ -55,4 +55,4 @@ O Flix App é uma aplicação web desenvolvida com Django e Streamlit, que permi
 5. Inicie o servidor de desenvolvimento do Django e o servidor do Streamlit.
 6. Acesse a aplicação em seu navegador.
 
-Consulte o arquivo README.md no repositório do projeto para obter instruções detalhadas sobre a instalação e execução.
+Desenvolvido por Renato Pasklan
